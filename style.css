@@ -68,7 +68,27 @@ header#head ul li:hover{
     transition: 0.4s;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.527);
 }
+/*-------------configuração do popup-----------------*/
 
+#popup{
+    background-color: black;
+    color: white;
+    position: absolute;
+    margin: 10% 20% 0 20%;
+    height: 350px;
+    padding: 0;
+}
+#popupconteiner{
+    padding: 20pt;
+}
+#botaofechar1{
+ background-color: #222222;
+ margin: 0px;
+}
+#botaofechar2{
+    margin: 0;
+    padding: 0;
+}
 /*-------------configuração da seção de áreas de atuação--------------*/
 #areas{
     margin: 50px auto 50px auto;
