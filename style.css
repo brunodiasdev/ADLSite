@@ -82,12 +82,13 @@ header#head ul li:hover{
     padding: 20pt;
 }
 #botaofechar1{
- background-color: #222222;
- margin: 0px;
+ background-color: #444444;
+ margin: 85px 0px 0px 0px;
 }
 #botaofechar2{
     margin: 0;
-    padding: 0;
+    padding: 10px;
+    text-align: center;
 }
 /*-------------configuração da seção de áreas de atuação--------------*/
 #areas{
