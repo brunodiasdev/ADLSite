@@ -72,6 +72,10 @@ header#head ul li:hover{
 
 #popup{
     background-color: black;
+    background-image: url("imagens/popup/registroinpi.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
     color: white;
     position: absolute;
     margin: 10% 20% 0 20%;
