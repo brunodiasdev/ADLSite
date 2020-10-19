@@ -71,12 +71,12 @@ header#head ul li:hover{
 /*-------------configuração do popup-----------------*/
 
 #popup{
-    background-color: black;
+    background-color: rgb(208, 223, 230);
     background-image: url("imagens/popup/registroinpi.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% 80%;
 
-    color: white;
+    color: rgb(161, 8, 8);
     position: absolute;
     margin: 10% 20% 0 20%;
     height: 350px;
