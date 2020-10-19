@@ -83,13 +83,17 @@ header#head ul li:hover{
 }
 #botaofechar1{
  background-color: #444444;
- margin: 85px 0px 0px 0px;
+ margin: 85px 30% 0px 30%;
  border-radius: 10px;
 }
 #botaofechar1:hover{
     transform: scale(1.005);
     background-color: teal;
     transition: 0.2s;
+}
+#botaofechar1:active{
+    background-color: black;
+    opacity: 0x;
 }
 #botaofechar2{
     margin: 0;
