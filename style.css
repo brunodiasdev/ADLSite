@@ -74,7 +74,8 @@ header#head ul li:hover{
     background-color: rgb(208, 223, 230);
     background-image: url("imagens/popup/registroinpi.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 80%;
+    background-position: initial;
+    background-size: 100% 85%;
 
     color: rgb(161, 8, 8);
     position: absolute;
@@ -83,8 +84,13 @@ header#head ul li:hover{
     padding: 0;
 }
 #popupconteiner{
-    padding: 20pt;
+    padding: 0pt;
+    font-size: 10pt;
 }
+#popupconteiner h1{
+    text-align: center;
+}
+
 #botaofechar1{
  background-color: #444444;
  margin: 85px 30% 0px 30%;
