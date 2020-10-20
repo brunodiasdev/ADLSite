@@ -77,24 +77,29 @@ header#head ul li:hover{
     background-position: initial;
     background-size: 100% 85%;
 
-    color: rgb(161, 8, 8);
+    color: rgb(11, 25, 83);
     position: absolute;
     margin: 10% 20% 0 20%;
     height: 350px;
     padding: 0;
+
+    border: solid white;
+    box-shadow: 2px 2px 10px black;
 }
 #popupconteiner{
     padding: 0pt;
-    font-size: 10pt;
+    font-size: 8pt;
 }
 #popupconteiner h1{
     text-align: center;
+    text-shadow: 2px 1px 4px rgb(255, 255, 255);;
 }
 
 #botaofechar1{
  background-color: #444444;
  margin: 85px 30% 0px 30%;
  border-radius: 10px;
+ margin-top: 210px;
 }
 #botaofechar1:hover{
     transform: scale(1.005);
