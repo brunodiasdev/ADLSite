@@ -245,8 +245,10 @@ figure.legenda:hover {
 }
 
 /*------------------Formulários--------------------*/
-#formstyle{
-    background-color: lawngreen;
+.formstyle{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 50px;
 }
 
 /*--------------Slides de images-----------------*/
